@@ -1,0 +1,6 @@
+Efficient event match over stream:
+https://people.cs.umass.edu/~yanlei/publications/sase+sigmod08.pdf
+This is one core algorighm in apache flink. It solves event match in parallel way.
+
+For the event maybe in disorder, please check the paper from microsoft research
+https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/AFA-paper.pdf
