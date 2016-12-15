@@ -1,2 +1,5 @@
 The 8 principals for streaming processing:
 http://cs.brown.edu/~ugur/8rulesSigRec.pdf
+
+Algorithm for distribute computing:
+http://nms.csail.mit.edu/papers/ha-icde05.pdf
